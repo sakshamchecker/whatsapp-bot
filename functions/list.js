@@ -16,17 +16,12 @@
     - _Instagram videos downloader!_
     Alias: *${prefix}i url*
 
-📛 *${prefix}donation*
-    - _Get donation details and help PVX community!_
-    
 📛 *${prefix}ytv url*
     - _Youtube videos downloader!_
 
 📛 *${prefix}yta url*
     - _Youtube audio downloader!_
 
-📛 *${prefix}steal*
-    - _Change sticker name to PVX BOT!_
 
 📛 *${prefix}add <phone number>*
     - _Add new member!_
@@ -43,9 +38,6 @@
     - _Delete message of bot!_
     Alias: *${prefix}d*
 
-📛 *${prefix}song name*
-    - _Get songs in good quality!_
-    [Better use ${prefix}yta command to download correct song from youtube]
 
 📛 *${prefix}text*
     - _Get text extractor from image!_
@@ -64,18 +56,7 @@
 
 📛 *${prefix}quote*
     - _Give a random quote!_
-
-📛 *${prefix}gender firstname*
-    - _Get gender from person first name!_
       
-📛 *${prefix}technews*
-    - _Get latest Tech news from inshorts !_
-
-📛 *${prefix}pvxlink*
-    - _Get links for all PVX groups!_
-
-📛 *${prefix}source*
-    - _Get bot source code!_
 
 📛 *${prefix}dev*
     - _Get dev contact to report bug or to add new feature!_

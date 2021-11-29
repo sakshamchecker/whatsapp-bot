@@ -9,8 +9,6 @@ module.exports.commandListOwner = (prefix) => {
   📛 *${prefix}tagall*
       - _Tag all the members!_  
       
-  📛 *${prefix}pvxstats*
-      - _Get stats of PVX groups!_
       
   📛 *${prefix}deleteauth*
       - _Delete auth DB to get new qr scan!_
