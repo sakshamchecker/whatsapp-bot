@@ -1,5 +1,5 @@
 module.exports.commandListOwner = (prefix) => {
-  return `*─「 🔥 <{PVX}> BOT 🔥 」─*
+  return `*─「 🔥 🔥 」─*
 
   _Restricted command for owner only!_
     
